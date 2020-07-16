@@ -16,32 +16,26 @@ namespace ColinKnecht_PalindromeMachine
         //Write up a short documentation explaining what your program does.
         static void Main(string[] args)
         {
-            //string sample = "Green vines attached to the trunk of the tree had wound themselves toward the top of the canopy. " +
-            //    "Ants used the vine as their private highway madam, avoiding all the creases and crags of the bark, to freely move at top speed " +
-            //    "from top to bottom or bottom to top depending on their current chore. At least this was the way it was supposed to be. " +
-            //    "Something had damaged the vine overnight halfway up the tree leaving a gap in the once pristine ant highway.";
-            //string sample2 = "Green vines attached to the trunk of, the tree, had woun'd themselve's toward the top of the canopy madam.";
+            //TODO's - get rid of 1 letter palindromes
+            //check for copy paste multiple lines
+            // get ride of somewhere? in last example when entering 'o'
             Console.WriteLine("Welcome to the Palindrome Machine!  Please enter your paragraph to check....");
             string paragraph = Console.ReadLine();
             Console.WriteLine("Number of palindrome words in paragraph is: " + CountPalindromeWords(paragraph).ToString());
             Console.WriteLine("Number of palindrome sentences in paragraph is: " + CountPalindromeSentences(paragraph).ToString());
             ListUniqueWordsWithCount(paragraph);
             Console.WriteLine("=================================================");
-            Console.WriteLine("=================================================");
-            Console.WriteLine("=================================================");
             Console.WriteLine("Please enter a letter to check which words have that letter.....");
             string letter = Console.ReadLine();
-            //TODO -- make sure they enter a char not multiple chars
+            
+            while(letter.Length != 1)
+            {
+                Console.WriteLine("Please enter a 1 letter character!! Enter letter below...");
+                letter = Console.ReadLine();
+            }
             CheckUserInputLetter(letter, paragraph);
 
-
-
-
-            string sample3 = "Green dan vine's; attached. To Dan, the trunk madam. Mr     Owl ate my metal worm. Sentence for dan.";
-            //listUniqueWordsWithCount(sample3);
-            //int count = countPalindromeSentences(sample3);
-            //checkUserInputLetter('A', sample3);
-            //Console.WriteLine(count.ToString());
+            Console.WriteLine("Thanks for playing!! Enter any key to exit!!");
             Console.ReadLine();
         }
 
