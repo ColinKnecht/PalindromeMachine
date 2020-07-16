@@ -1,0 +1,13 @@
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\bin\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.exe
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\bin\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.deps.json
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\bin\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.runtimeconfig.json
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\bin\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.runtimeconfig.dev.json
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\bin\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.dll
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\bin\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.pdb
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\obj\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.csprojAssemblyReference.cache
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\obj\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.csproj.CoreCompileInputs.cache
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\obj\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.AssemblyInfoInputs.cache
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\obj\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.AssemblyInfo.cs
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\obj\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.dll
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\obj\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.pdb
+C:\Users\cknec\Desktop\ColinKnecht-PalindromeMachine\obj\Debug\netcoreapp3.1\ColinKnecht-PalindromeMachine.genruntimeconfig.cache
